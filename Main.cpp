@@ -91,7 +91,7 @@ int main()
 	cout << endl;
 	cout << "\n\t\t\t  ______________________";
 	cout << "\n\t\t\t | \t\t\t|";
-	cout << "\n\n\t\t | Quantum Works\t\|";
+	cout << "\n\n\t\t | Quantum Works\t | ";
 	cout << "\n\t\t\t | \t\t\t|";
 	cout << "\n\t\t\t | All Rights Reserved\t|";
 	cout << "\n\t\t\t |______________________|";

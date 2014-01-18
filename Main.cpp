@@ -84,7 +84,24 @@ public:
 int main()
 {
 	SetConsoleTitle(TEXT(" Quantum Works Tic Tac Toe "));// console name! do not remove
-	system("color 90");//BackGround Color do not remove!
+	cout << endl;
+	cout << endl;
+	cout << endl;
+	cout << endl;
+	cout << endl;
+	cout << "\n\t\t\t  ______________________";
+	cout << "\n\t\t\t | By Shadi Nachat\t|";
+	cout << "\n\t\t\t | \t\t\t|";
+	cout << "\n\t\t\t | Quantum Works\t\|";
+	cout << "\n\t\t\t | \t\t\t|";
+	cout << "\n\t\t\t | All Rights Reserved\t|";
+	cout << "\n\t\t\t |______________________|";
+	cout << "\n\t\t\t\t";
+
+	system("color 90");
+	Sleep(2000);
+
+	system("cls");
 	Table table;
 
 	int row, column;

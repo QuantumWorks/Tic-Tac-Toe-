@@ -4,6 +4,8 @@
 using namespace std;
 
 
+
+
 class Table
 {
 private:
@@ -27,6 +29,9 @@ public:
 	{
 		return data[row * 3 + column];
 	}
+	
+	
+	
 
 	void Draw()//draws board
 	{
@@ -44,6 +49,8 @@ public:
 		}
 		cout << " _______" << endl;
 	}
+	
+	
 
 	bool CheckForWin()
 	{

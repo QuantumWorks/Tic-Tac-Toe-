@@ -74,7 +74,7 @@
      
               //Check for 3 diagonal
               //...
-     
+      
               return false;
       }
     };
